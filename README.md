@@ -88,4 +88,4 @@ The App is ready to use again.
 
 🙋‍♂️ Author
 Ajay Kumar
-GitHub: @Ajay Kumar
+GitHub: @Ajay0526
