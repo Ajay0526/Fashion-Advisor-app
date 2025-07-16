@@ -36,7 +36,7 @@ FashionAdvisor/
 🧑‍💻 How to Run
 Clone the Repository
 
-git clone https://github.com/Ajay0526/FashionAdvisor-Kotlin.git
+git clone https://github.com/Ajay0526/Fashion-Advisor-app
 
 Open in Android Studio
 
